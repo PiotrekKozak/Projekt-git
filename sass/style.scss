@@ -67,3 +67,43 @@ body {
     font-size: 14px;
     cursor: pointer;
 }
+
+/*Services*/
+
+.services {
+    text-align: center;
+    margin: 100px;
+    align-items: center;
+}
+
+.services i {
+    font-size: 40px;
+    border: 3px solid yellow;
+    border-radius: 50%;
+    color: yellow;
+    padding: 15px;
+}
+
+.services h5 {
+    margin-bottom: 5px;
+    font-size: 22px;
+    font-family: 'Rowdies', cursive;
+}
+
+.services p {
+    margin: 5px;
+    font-size: 16px;
+    font-family: 'Rowdies', cursive;
+    color: rgba(56, 56, 56, 0.623);
+}
+
+.services .section-title {
+    font-family: 'Quintessential', cursive;
+    font-size: 34px;
+    margin-bottom: 0;
+}
+
+.services .section-subtitle {
+    margin-bottom: 50px;
+    color:rgba(56, 56, 56, 0.623);
+}
