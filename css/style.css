@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+}
+
+/*Navigation*/
+.navigation {
+  height: 70vh;
+  position: relative;
+  background-image: url("https://media.istockphoto.com/photos/tel-aviv-wedding-picture-id650629976?k=20&m=650629976&s=612x612&w=0&h=xUl3lNkZQWVx7L3773LGWBxLrLJYR5w1TbypN_D4OqA=");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.navigation ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation li {
+  padding: 0 10px;
+  align-items: left;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: whitesmoke;
+  margin-top: 10px;
+}
+
+.navigation .nav-list {
+  text-align: right;
+  font-size: 20px;
+  margin-top: 10px;
+  font-family: "Rowdies", cursive;
+}
+
+.navigation .nav-brand {
+  color: yellowgreen;
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+}
+
+.navigation .heading {
+  text-align: center;
+  margin: 15vh auto;
+  display: block;
+  color: white;
+  font-family: "Quintessential", cursive;
+  font-size: 24px;
+}
+
+.navigation .heading button {
+  width: 220px;
+  height: 60px;
+  border-radius: 10px;
+  background-color: rgba(3, 3, 3, 0.623);
+  color: white;
+  border-color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLFNBQUE7QUNDSjs7QURFQSxhQUFBO0FBRUE7RUFDSSxZQUFBO0VBQ0Esa0JBQUE7RUFDQSxnTEFBQTtFQUNBLGtDQUFBO0VBQ0Esc0JBQUE7RUFDQSw0QkFBQTtBQ0FKOztBRElBO0VBQ0ksYUFBQTtFQUNBLHFCQUFBO0VBQ0EsU0FBQTtFQUNBLFVBQUE7QUNESjs7QURJQTtFQUNJLGVBQUE7RUFDQSxpQkFBQTtBQ0RKOztBRElBO0VBQ0kscUJBQUE7RUFDQSxpQkFBQTtFQUNBLGdCQUFBO0FDREo7O0FESUE7RUFDSSxpQkFBQTtFQUNBLGVBQUE7RUFDQSxnQkFBQTtFQUNBLCtCQUFBO0FDREo7O0FES0E7RUFDSSxrQkFBQTtFQUNBLHNDQUFBO0VBQ0EsZUFBQTtBQ0ZKOztBRE1BO0VBQ0ksa0JBQUE7RUFDQSxpQkFBQTtFQUNBLGNBQUE7RUFFQSxZQUFBO0VBQ0Esc0NBQUE7RUFDQSxlQUFBO0FDSko7O0FET0E7RUFDSSxZQUFBO0VBQ0EsWUFBQTtFQUNBLG1CQUFBO0VBQ0Esc0NBQUE7RUFDQSxZQUFBO0VBQ0EsbUJBQUE7RUFDQSxlQUFBO0VBQ0EsZUFBQTtBQ0pKIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
