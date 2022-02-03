@@ -143,3 +143,33 @@ body {
 
 /*Footer*/
 
+footer {
+    margin: 20px 0;
+}
+
+footer i {
+    padding-top: 10px;
+}
+
+footer ul {
+    display: flex;
+    justify-content: left;
+    list-style-type: none;       
+}
+
+footer li {
+    padding-right: 20px;   
+}
+
+footer ul i {
+    
+    color: white;
+    border: 3px solid black;
+    border-radius: 50%;    
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding-top: 8px;
+}
+
