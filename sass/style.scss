@@ -1,5 +1,20 @@
+/*Global*/
+
 body {
     margin: 0;
+}
+
+.section-title {
+    font-family: 'Quintessential', cursive;
+    font-size: 34px;
+    margin-bottom: 0;
+}
+
+.section-subtitle {
+    font-family: 'Rowdies', cursive;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    color:rgba(56, 56, 56, 0.623);
 }
 
 /*Navigation*/
@@ -97,13 +112,34 @@ body {
     color: rgba(56, 56, 56, 0.623);
 }
 
-.services .section-title {
-    font-family: 'Quintessential', cursive;
-    font-size: 34px;
-    margin-bottom: 0;
+
+
+/*Portfolio*/
+
+.portfolio {
+    text-align: center;
+    margin-top: 100px;
+    background-color: bisque;
 }
 
-.services .section-subtitle {
-    margin-bottom: 50px;
-    color:rgba(56, 56, 56, 0.623);
+.portfolio img {
+    max-height: 200px;
+    width: 350px;
 }
+
+.portfolio .file {
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-family: 'Rowdies', cursive;
+}
+
+.portfolio .describe {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-family: 'Rowdies', cursive;
+    color: rgba(56, 56, 56, 0.623);
+    padding-bottom: 50px;
+}
+
+/*Footer*/
+
